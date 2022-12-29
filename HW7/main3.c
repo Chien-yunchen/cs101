@@ -6,7 +6,7 @@ printf("%d*%d=%d\t",i,j,i*++j);
 if(j==9){
 i++;
 j=0;
-ptintf("\n");
+printf("\n");
 }
 }
 }
